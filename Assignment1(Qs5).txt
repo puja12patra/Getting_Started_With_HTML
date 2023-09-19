@@ -1,0 +1,3 @@
+5. What is the DOCTYPE Declaration in HTML?
+
+Ans. A doctype declaration tells the browser that the page to be rendered is written in HTML. It is the instruction to the web browser about version of HTML page is written in.

@@ -1,0 +1,5 @@
+4. Write a short note on Tag and element with an example?
+
+Ans. A tag is a piece of code that starts with a < bracket and ends with a > bracket. It tells the browser how to display the content. For example, <p> is a tag that indicates a paragraph and <h1> is a tag that indicates headlines.
+
+     An element is a component of HTML that consists of a start tag, an end tag, and the content between them. For example, <p> HTML is the standard markup language for creating Web pages. </p> and <h1>Good Morning!</h1>
